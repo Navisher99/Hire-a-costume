@@ -1,0 +1,30 @@
+c:\users\user\documents\visual studio 2015\Projects\Ass\Ass\bin\Debug\Ass.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Ass\Ass\bin\Debug\Ass.exe
+c:\users\user\documents\visual studio 2015\Projects\Ass\Ass\bin\Debug\Ass.pdb
+c:\users\user\documents\visual studio 2015\Projects\Ass\Ass\obj\Debug\Ass.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Ass\Ass\obj\Debug\Ass.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Ass\Ass\obj\Debug\Ass.Hire_Costume.resources
+c:\users\user\documents\visual studio 2015\Projects\Ass\Ass\obj\Debug\Ass.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Ass\Ass\obj\Debug\Ass.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Ass\Ass\obj\Debug\Ass.exe
+c:\users\user\documents\visual studio 2015\Projects\Ass\Ass\obj\Debug\Ass.pdb
+c:\users\user\documents\visual studio 2015\Projects\Ass\Ass\obj\Debug\Ass.Form2.resources
+c:\users\user\documents\visual studio 2015\Projects\Ass\Ass\obj\Debug\Ass.Hire_Costume_form.resources
+c:\users\user\documents\visual studio 2015\Projects\Ass\Ass\obj\Debug\Ass.newcustomer.resources
+c:\users\user\documents\visual studio 2015\Projects\Ass\Ass\obj\Debug\Ass.customer_list_form.resources
+N:\Diploma\Game day\Ass\Ass\bin\Debug\Ass.exe.config
+N:\Diploma\Game day\Ass\Ass\bin\Debug\Ass.exe
+N:\Diploma\Game day\Ass\Ass\bin\Debug\Ass.pdb
+N:\Diploma\Game day\Ass\Ass\obj\Debug\Ass.csproj.AssemblyReference.cache
+N:\Diploma\Game day\Ass\Ass\obj\Debug\Ass.csproj.SuggestedBindingRedirects.cache
+N:\Diploma\Game day\Ass\Ass\obj\Debug\Ass.customer_list_form.resources
+N:\Diploma\Game day\Ass\Ass\obj\Debug\Ass.Form1.resources
+N:\Diploma\Game day\Ass\Ass\obj\Debug\Ass.Form2.resources
+N:\Diploma\Game day\Ass\Ass\obj\Debug\Ass.Hire_Costume_form.resources
+N:\Diploma\Game day\Ass\Ass\obj\Debug\Ass.Hire_Costume.resources
+N:\Diploma\Game day\Ass\Ass\obj\Debug\Ass.newcustomer.resources
+N:\Diploma\Game day\Ass\Ass\obj\Debug\Ass.Properties.Resources.resources
+N:\Diploma\Game day\Ass\Ass\obj\Debug\Ass.csproj.GenerateResource.cache
+N:\Diploma\Game day\Ass\Ass\obj\Debug\Ass.csproj.CoreCompileInputs.cache
+N:\Diploma\Game day\Ass\Ass\obj\Debug\Ass.exe
+N:\Diploma\Game day\Ass\Ass\obj\Debug\Ass.pdb
